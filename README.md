@@ -1,4 +1,4 @@
 # tdt4100-ovinger
-akjhdawhdjka
-
 Personal backup of ovinger 
+
+Todo: Add øvings from desktop
