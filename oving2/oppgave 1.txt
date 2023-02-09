@@ -1,0 +1,12 @@
+Hva er en synlighetsmodifikator?
+    private og public, hva de gjør er at de endrer hvem som kan se dataen fra utenfor klassen. 
+    Hvis noe er private, så er det "lesbart" kun for metoder inni klassen.
+
+
+Hva er forskjellen på private og public og når brukes de?
+    Se ovenfor. 
+    Private brukes som oftest til å deklarere variabler inni et object,
+    feks: name, adr. etc
+    public brukes som oftest på metoder som resten av programvaren skal interagere med. 
+    feks: set-/get-funksjoner
+
