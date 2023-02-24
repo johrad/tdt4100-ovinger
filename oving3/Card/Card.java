@@ -35,10 +35,11 @@ public class Card {
   public String toString() {
     return String.format("%c%d", this.cardType, this.cardNum); // todo: fix formatting here
   }
-  //   public static void main(String[] args) {
-  //     System.out.println("hello\n");
-  //     Card card1 = new Card('S', 12);
-  //     String foo = card1.toString();
-  //     System.out.println(foo);
-  //   }
+
+  public static void main(String[] args) {
+    System.out.println("The card is:");
+    Card card1 = new Card('S', 12);
+    // String foo = card1.toString();
+    System.out.println(card1.toString());
+  }
 }
